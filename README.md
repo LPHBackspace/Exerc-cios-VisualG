@@ -1,2 +1,2 @@
-# Exerc-cios-VisualG
+# Exercícios-VisualG
 Exercícios de lógica de programação - PROA
