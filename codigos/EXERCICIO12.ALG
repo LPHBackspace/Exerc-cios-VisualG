@@ -28,7 +28,7 @@ percentual2<-nulos2*100/eleitores
 percentual3<-validos3*100/eleitores
 escreval("Percentual de votos em branco ", percentual1:2:2, " %")
 escreval("Percentual de votos nulos ", percentual2:2:2, " %")
-escreval("Percentual de votos validos ", percentual3:2:2, "%")
+escreval("Percentual de votos validos ", percentual3:2:2, " %")
 
 
 Fimalgoritmo

@@ -8,12 +8,14 @@ Var
 // Seção de Declarações das variáveis 
 fahrenheit:real
 celsius:real
+conta1:real
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
 escreval("Escreva a temperatura em Fahrenheit")
 leia(fahrenheit)
-celsius<-(fahrenheit-32)/1.8
+conta1<-fahrenheit-32
+celsius<-conta1/1.8
 escreval("Esta temperatura equivale a:", celsius:10:2, " c°")
 
 Fimalgoritmo

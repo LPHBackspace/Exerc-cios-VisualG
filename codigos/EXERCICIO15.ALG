@@ -9,7 +9,7 @@ Var
 salario:real
 comissao:real
 vendastotais:real
-vendas:real
+vendas:inteiro
 conta1:real
 conta2:real
 salariofinal:real

@@ -12,11 +12,11 @@ impostos:real
 fabrica:real
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
-escreval("Digite o preço de mercado do carro")
+escreval("Digite o preço de fabrica")
 leia(custo)
 distribuidor<-custo*28/100
 impostos<-custo*45/100
-fabrica<-custo-distribuidor-impostos
-escreval("O preço de fábrica do carro é: ", fabrica:10:2, " R$")
+fabrica<-custo+distribuidor+impostos
+escreval("O preço de mercado do carro é: ", fabrica:10:2, " R$")
 
 Fimalgoritmo
