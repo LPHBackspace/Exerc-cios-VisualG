@@ -20,6 +20,6 @@ leia(nota2)
 escreval("Digite sua nota de peso5")
 leia(nota3)
 media<-(nota1*2+nota2*3+nota3*5)/10
-escreval("Sua média ponderada é:", media:2:1)
+escreval("Sua média ponderada é:", media:2:2)
 
 Fimalgoritmo
